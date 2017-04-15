@@ -1,6 +1,8 @@
 
 This generates a `reflex` host from a `servant` type.
 
+It currently doesn't work with nested APIs.
+
 There's an example of this in use in my [reflex-project](https://github.com/dalaing/reflex-project) repository.
 
 There could be a lot of variants on these
