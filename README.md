@@ -1,4 +1,6 @@
 
+Note: development is happening over [here](https://github.com/dalaing/reflex-server-servant) now.
+
 This generates a `reflex` host from a `servant` type.
 
 It currently doesn't work with nested APIs.
